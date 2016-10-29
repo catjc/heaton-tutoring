@@ -114,7 +114,7 @@ a {
   font-weight: normal;
   color: #159957; }
 .main-content p {
-  margin-bottom: 1em; }
+  margin-bottom: 1rem; }
 .main-content code {
   padding: 2px 4px;
   font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
@@ -149,7 +149,7 @@ a {
 .main-content .highlight pre, .main-content pre {
   padding: 0.8rem;
   overflow: auto;
-  font-size: 0.9rem;
+  font-size: 1.5rem;
   line-height: 1.45;
   border-radius: 0.3rem; }
 .main-content pre code, .main-content pre tt {
